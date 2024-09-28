@@ -1,4 +1,4 @@
-//---------------HomeScreen.js---------------
+//---------------HomeScreen.js---------------//
 
 import { View, Text, TouchableOpacity, StyleSheet, ScrollView } from 'react-native'
 import React, { useEffect, useState } from 'react'
